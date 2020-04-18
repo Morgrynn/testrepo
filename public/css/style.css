@@ -1,0 +1,20 @@
+/* Override Bootstrap */
+
+/* wrapper in header_view  wrapped around home/home_view*/
+.wrapper {
+	width: 980px;
+	margin: 0 auto;
+}
+
+/* dashboard_view styles */
+#dashboard-side {
+	background-color: #f2f2f2;
+	border: 1px solid black;
+	min-height: 500px;
+}
+
+#dashboard-main {
+	background-color: #f2f2f2;
+	border: 1px solid black;
+	min-height: 500px;
+}
